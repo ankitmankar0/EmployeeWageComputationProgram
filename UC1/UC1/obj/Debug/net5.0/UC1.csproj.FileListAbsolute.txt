@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\UC1.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\UC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\UC1.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\UC1.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\UC1.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\bin\Debug\net5.0\UC1.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\bin\Debug\net5.0\UC1.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\bin\Debug\net5.0\UC1.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\bin\Debug\net5.0\UC1.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\bin\Debug\net5.0\UC1.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\bin\Debug\net5.0\UC1.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\UC1.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\refint\UC1.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\UC1.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\UC1.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\UC1\UC1\obj\Debug\net5.0\ref\UC1.dll
