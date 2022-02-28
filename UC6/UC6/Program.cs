@@ -18,11 +18,9 @@ namespace UC6
             int empTotalHour = 0;
             int empTotalWorkingDays = 0;
             //for (int i = 0; i < 2; i++)
-
-            while (empTotalHour <= MaxHoursInMonth && empTotalWorkingDays < 2)
+            while (empTotalHour <= MaxHoursInMonth && empTotalWorkingDays < Month)
+            { 
                 empTotalWorkingDays++;
-            
-            {
                 Random random = new Random();
                 int check = random.Next(0, 3);
                 switch (check)
@@ -37,12 +35,12 @@ namespace UC6
                         empHour = 0;
                         break;
                 }
-                Console.WriteLine("Emp One Day Hours : " + empHour);
-                empTotalHour = empHour * empTotalWorkingDays;
-                Console.WriteLine("Days : " + empTotalWorkingDays + " Emp Hours : " + empTotalHour);
+                empTotalHour += empHour;
+                Console.WriteLine("Days : " + empTotalWorkingDays + " Emp Hours : " + empHour);
             }
             int TotalEmpWages = empTotalHour * emp_per_hour_wages;
             Console.WriteLine("Total Emp Wages : " + TotalEmpWages);
+            
         }
     }
 }
